@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA0uIa7mJZDpHZqmX1ft7GfQUjKT4Nnol4",
+  apiKey: "____isi_dengan_api_key_firebase_anda____",
   authDomain: "e-agenda-dewas.firebaseapp.com",
   projectId: "e-agenda-dewas",
   storageBucket: "e-agenda-dewas.firebasestorage.app",
